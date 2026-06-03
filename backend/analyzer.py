@@ -4,7 +4,7 @@ from google import genai
 import json
 import re
 
-client = genai.Client(api_key="USE YOUR OWN API KEY")
+client = genai.Client(api_key="AQ.Ab8RN6KWQH_ABdN5LzYjVdzr70JE6QKbR5AANe3XXXv2DoDiIw")
 
 def clean_text(text):
     text = text.lower()
